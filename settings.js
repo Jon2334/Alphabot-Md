@@ -22,13 +22,13 @@ edit sewabot di file settings.js line 19
 `
 // setting 
 global.firtsChat = true //send firts message to new user
-global.autoread = false // auto read message
-global.antidelete = trus // anti delete
+global.autoread = true // auto read message
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.userRegister = true
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.groupOnly = true //bot hanya bisa di gunakan dalam grup
 
