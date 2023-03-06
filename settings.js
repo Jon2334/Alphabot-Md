@@ -27,10 +27,10 @@ global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = true
+global.userRegister = false
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
-global.groupOnly = true //bot hanya bisa di gunakan dalam grup
+global.groupOnly = false //bot hanya bisa di gunakan dalam grup
 
 //language
 //Available in indonesia , english & spanyol 
